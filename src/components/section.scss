@@ -1,0 +1,19 @@
+@import "./variables.scss";
+.section {
+    width: 76.25rem;
+    margin: 0 auto;
+    h1 {
+        font-family: $header_font;
+        font-size: 36px;
+    }
+    .adv-article h1 {
+        font-size: 22px;
+    }
+    p {
+        font-family: $txt_font;
+        font-size: 14px;
+    }
+    img {
+        margin: 3em auto 2em;
+    }
+}
